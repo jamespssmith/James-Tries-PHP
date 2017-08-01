@@ -2,6 +2,7 @@
 
 1. Write a PHP script to get the PHP version and configuration information
 
+
 ```markdown
 
 <?php
@@ -12,7 +13,9 @@ phpinfo();
 
 
 
+
 2. Write a PHP script to display the following strings. 
+
 
 Sample String : 
 
