@@ -1,12 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to My Pages
 
-You can use the [editor on GitHub](https://github.com/jamespssmith/php-excercises/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This page has been created to track the progress of PHP activities set over the course of six to eight weeks for the programming portion of Web-Based Technologies.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Please note that this is for school purposes only.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Week One - Introduction to PHP
+
+The PHP that will be covered in Week One will be to get PHP configuration and information and also to display certain information using PHP.
+
+[Week One scripts can be found here]()
 
 ```markdown
 Syntax highlighted code block
