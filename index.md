@@ -9,16 +9,22 @@ Please note that this is for school purposes only.
 
 The PHP that will be covered in Week One will be to get PHP configuration and information and also to display certain information using PHP.
 
-[Week One scripts can be found here]()
+[Week One scripts can be found here](https://jamespssmith.github.io/James-Tries-PHP/week-one)
 
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Week Two - Control Flow If/Else
 
-### Jekyll Themes
+### Week Three - Control Flow Switch
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jamespssmith/php-excercises/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Week Four - Arrays in PHP
 
-### Support or Contact
+### Week Five - Loops: For and ForEach
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Week Six - Loops: While and Do-While
+
+### Week Seven - Functions in PHP, Part 1 & 2
+
+### Week Eight - Object Orientated PHP, Part 1 & 2
+
+### Week Nine - Advanced Arrays and Maps
