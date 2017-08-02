@@ -1,6 +1,6 @@
 ## Week One - Introduction to PHP
 
-<img src="https://github.com/jamespssmith/James-Tries-PHP/blob/master/assets/images/1.jpg" alt="1" />
+![ImageAltText](assets/images/1.jpg")
 
 * Write a PHP script to get the PHP version and configuration information
 
