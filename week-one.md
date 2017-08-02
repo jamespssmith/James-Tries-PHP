@@ -1,4 +1,4 @@
-## Welcome to Week One
+## Week One - Introduction to PHP
 
 1. Write a PHP script to get the PHP version and configuration information
 
