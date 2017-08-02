@@ -14,7 +14,7 @@ phpinfo();
 
 
 
-..2. Write a PHP script to display the following strings. 
+  2. Write a PHP script to display the following strings. 
 
 
 Sample String : 
