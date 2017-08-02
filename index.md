@@ -7,12 +7,17 @@ This page has been created to track the progress of PHP activities set over the 
 Please note that this is for school purposes only.
 
 
+----
+
+
 ### Week One - Introduction to PHP
 
 The PHP that will be covered in Week One will be to get PHP configuration and information and also to display certain information using PHP.
 
 [Week One scripts can be found here](https://jamespssmith.github.io/James-Tries-PHP/week-one)
 
+
+----
 
 
 ### Week Two - Control Flow If/Else
