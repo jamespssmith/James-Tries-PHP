@@ -1,5 +1,7 @@
 ## Week One - Introduction to PHP
 
+![alt text](https://github.com/jamespssmith/James-Tries-PHP/blob/master/assets/images/1.jpg "1")
+
 * Write a PHP script to get the PHP version and configuration information
 
 
