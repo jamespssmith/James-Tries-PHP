@@ -1,6 +1,6 @@
 ## Week One - Introduction to PHP
 
-1. Write a PHP script to get the PHP version and configuration information
+* Write a PHP script to get the PHP version and configuration information
 
 
 ```markdown
@@ -14,7 +14,7 @@ phpinfo();
 
 
 
-  2. Write a PHP script to display the following strings. 
+* Write a PHP script to display the following strings. 
 
 
 Sample String : 
