@@ -1,6 +1,6 @@
 ## Week One - Introduction to PHP
 
-![ImageAltText](assets/images/1.jpg")
+![ImageAltText](assets/images/1.jpg)
 
 * Write a PHP script to get the PHP version and configuration information
 
