@@ -1,6 +1,6 @@
 ## Welcome to My Pages
 
-<img src="https://github.com/jamespssmith/James-Tries-PHP/blob/master/assets/images/code.jpg" alt="code" />
+![ImageAltText](assets/images/code.jpg)
 
 This page has been created to track the progress of PHP activities set over the course of six to eight weeks for the programming portion of Web-Based Technologies.
 
