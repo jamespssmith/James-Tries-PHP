@@ -51,3 +51,7 @@ echo 'This is a bad command : del c:\\*.*';
 ?>
 
 ```
+
+###Download files:
+<a href="https://raw.githubusercontent.com/jamespssmith/James-Tries-PHP/master/activities/activity1-1.php">1-1</a>
+<a herf="https://raw.githubusercontent.com/jamespssmith/James-Tries-PHP/master/activities/activity1-2.php">1-2</a>
