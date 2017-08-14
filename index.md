@@ -20,9 +20,14 @@ The PHP that will be covered in Week One will be to get PHP configuration and in
 ----
 
 
-### Week Two - Control Flow If/Else
+### Week Two - Control Flow If/Else & Switch
 
-### Week Three - Control Flow Switch
+The PHP that will be covered in Week Two will be Conditions and Control Flow and Switch.
+
+[Week Two scripts can be found here](https://jamespssmith.github.io/James-Tries-PHP/week-two)
+
+
+----
 
 ### Week Four - Arrays in PHP
 
