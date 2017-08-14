@@ -31,7 +31,6 @@ Hint: the function to get the current month is 'date('F', time())' for the month
 
 ```markdown
 
-<!DOCTYPE html>
 <html>
     <head>
 		<title></title>
@@ -65,6 +64,6 @@ if ($currMonth == 'August'){
 Right click on links to save as single-files.
 
 
-<a href="https://raw.githubusercontent.com/jamespssmith/James-Tries-PHP/master/activities/activity1-1.php">1-1</a>
+<a href="https://raw.githubusercontent.com/jamespssmith/James-Tries-PHP/master/activities/activity2-1.php">2-1</a>
 
-<a href="https://raw.githubusercontent.com/jamespssmith/James-Tries-PHP/master/activities/activity1-2.php">1-2</a>
+<a href="https://raw.githubusercontent.com/jamespssmith/James-Tries-PHP/master/activities/activity2-2.php">2-2</a>
