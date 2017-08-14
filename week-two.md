@@ -1,6 +1,6 @@
-## Week Two - Introduction to PHP
+## Week Two - Control Flow If/Else & Switch
 
-![ImageAltText](assets/images/1.jpg)
+![ImageAltText](assets/images/2.jpg)
 
 
 
