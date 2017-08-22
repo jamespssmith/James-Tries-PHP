@@ -29,14 +29,15 @@ The PHP that will be covered in Week Two will be Conditions and Control Flow and
 
 ----
 
-### Week Three - Arrays in PHP
+### Week Three - Loops
 
-### Week Four - Loops: For and ForEach
+The PHP that will be covered in Week Three wil be Loops.
 
-### Week Five - Loops: While and Do-While
+[Week Three scripts can be found here](https://jamespssmith.github.io/James-Tries-PHP/week-three)
 
-### Week Six - Functions in PHP, Part 1 & 2
 
-### Week Seven - Object Orientated PHP, Part 1 & 2
+### Week Four - Functions in PHP, Part 1 & 2
 
-### Week Eight - Advanced Arrays and Maps
+### Week Five - Object Orientated PHP, Part 1 & 2
+
+### Week Six - Advanced Arrays and Maps
