@@ -31,13 +31,14 @@ The PHP that will be covered in Week Two will be Conditions and Control Flow and
 
 ### Week Three - Loops
 
-The PHP that will be covered in Week Three wil be Loops.
+The PHP that will be covered in Week Three will be Loops.
 
 [Week Three scripts can be found here](https://jamespssmith.github.io/James-Tries-PHP/week-three)
 
 
-### Week Four - Functions in PHP, Part 1 & 2
+### Week Four - The rest.
 
-### Week Five - Object Orientated PHP, Part 1 & 2
 
-### Week Six - Advanced Arrays and Maps
+The PHP that will be covered in Week Four will be the rest
+
+[Week Three scripts can be found here](https://jamespssmith.github.io/James-Tries-PHP/week-four)
